@@ -1,0 +1,345 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+/*Header Part*/
+.headtop_contact ul li {
+    padding: 5px 0px;
+}
+ .main_menu ul li a {
+    padding: 15px 15px;
+}
+    /*Slider Part*/
+.slider_content h1 {
+    font-size: 55px;
+}
+.owl-dots {
+    position: absolute;
+    bottom: 30px;
+}
+.slider_content p {
+    font-size: 28px;
+}
+    /*Footer Part*/
+input#last_name {
+    width: 260px;
+}    
+    
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+/*Header Part*/
+.headtop_contact ul li {
+    padding: 10px 0px;
+}
+.header_reg ul li a {
+    padding: 10px 5px;
+}    
+.header_location i {
+    padding: 30px 0;
+}   
+.mean-container a.meanmenu-reveal {
+    margin-top: -60px;
+}   
+.logo img {
+    margin-top: -100px;
+}
+    /*Slider Part*/
+.slider_content h1 {
+    font-size: 40px;
+}
+.slider_content p {
+    font-size: 20px;
+}
+.btn {
+    padding: 14px 10px;
+}
+.owl-dots {
+    bottom: 15px;
+    text-align: center;
+    left: 0;
+    right: 0;
+}
+      /*Kid Part*/    
+    
+ .btn-one {
+    margin-left: 245px;
+}   
+      /*Courses*/
+.section_title h1 {
+    font-size: 28px;
+}    
+.courese_content {
+    margin-bottom: 30px;
+}
+        /*School Part*/
+    
+.school_factilit h3 {
+    font-size: 28px;
+} 
+.mickel_active .owl-dots {
+    margin-bottom: -50px;
+}    
+          /*Notice Part*/
+.notice_title ul li a {
+    padding: 10px 7px;
+}   
+          /*Footer Part*/    
+    
+input#last_name {
+    width: 250px;
+}  
+.footer_top {
+    margin-top: 100px;
+}    
+.footer_top1 {
+    margin-top: 100px;
+}    
+ .f_icon a {
+    padding: 180px 5px;
+}   
+    
+}
+
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+ /* Header Part */
+.logo img {
+    margin-top: 15px;
+    width: 50%;
+}
+.mean-container a.meanmenu-reveal {
+    margin-top: -60px;
+}    
+      /*Slider Part*/
+.slider_content h1 {
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.slider_content p {
+    font-size: 17px;
+    margin-bottom: 15px;
+}    
+.owl-dots {
+    left: 135px;
+    bottom: 5px;
+}   
+    /*Kid Part*/  
+    .kid_contnet h5 {
+    font-size: 20px;
+}
+.kid_contnet h1 {
+    font-size: 22px;
+}
+.kid_area {
+    padding: 30px 30px;
+}    
+.btn-one {
+    padding: 12px 10px;
+    margin-bottom: 15px;
+}
+     /*Kid Part*/  
+.section_title h1 {
+    font-size: 18px;
+}    
+    /*Coureses Part*/
+    
+ .courese_content p {
+    margin-top: 15px;
+} 
+.courese_content h4 {
+    font-size: 20px;
+}
+.courses_area {
+    padding: 35px 35px;
+}    
+.btn {
+    padding: 10px 7px;
+}    
+     /*School Part*/
+    
+.school_factilit h3 {
+    font-size: 22px;
+}    
+.school_area {
+    padding: 35px 35px;
+}    
+    /*Teacher Part*/
+ .teacher_area {
+    padding: 35px 35px;
+}   
+.teacher_img h4 {
+    font-size: 22px;
+    margin-top: -23px;
+}    
+    /*Notice Part*/
+    
+  .notice_title ul li a {
+    padding: 0px 0px;
+    margin-bottom: 13px;
+}  
+    /*Book Part*/
+.book_area {
+    padding: 35px 35px;
+}
+    /*Footer Part*/
+    
+ input#last_name {
+    padding: 8px 13px;
+    width: 200px;
+    margin-bottom: 15px;
+}
+    
+    
+    
+    
+    
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ /*Header Part*/
+.logo img {
+    margin-top: 14px;
+    width: 35%;
+}
+.mean-container a.meanmenu-reveal {
+    margin-top: -65px;
+}    
+.slider_content h1 {
+    font-size: 28px;
+}    
+.slider_content p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}    
+.slider_content h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}    
+.btn {
+    padding: 12px 5px;
+}    
+ .owl-dots {
+    left: 0;
+    bottom: 7px;
+    text-align: center;
+    right: 0;
+}   
+    /*Kid Part*/
+    .kid_contnet h5 {
+    font-size: 20px;
+    text-align: center;
+}
+.kid_contnet h1 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    text-align: center;
+} 
+.kid_contnet p {
+    text-align: center;
+}
+.btn-one {
+    padding: 10px 6px;
+    margin-left: 155px;
+    margin-bottom: 15px;
+}
+.kid_area {
+    padding: 35px 35px;
+}    
+       /*Courses Part*/
+    
+ .section_title h1 {
+    font-size: 22px;
+    text-align: center;
+}   
+ .section_title p {
+    text-align: center;
+} 
+.courese_content {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.courses_area {
+    padding: 35px 35px;
+}
+    /*School Part*/
+.school_factilit {
+    text-align: center;
+} 
+.school_factilit h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}    
+.shool_img {
+    text-align: center;
+}    
+ .school_area {
+    padding: 35px 35px;
+}   
+      /*Teacher Part*/
+    .teacher_area {
+    padding: 35px 35px;
+}
+  .teacher_img h4 {
+    font-size: 16px;
+    margin-top: -18px;
+}
+    /*mickel_area Part*/
+ }
+.content_mickel h5 {
+    font-size: 20px;
+}
+.mickel_area {
+    padding: 35px 35px;
+}
+.mickel_active .owl-dots {
+    left: 0;
+    margin-bottom: -19px;
+    text-align: center;
+    right: 0;
+}
+  /*Notice Part*/
+.notice_title h1 {
+    font-size: 22px;
+    text-align: center;
+}
+.notice_title {
+    text-align: center;
+}
+.notice_content {
+    text-align: center;
+}
+.notice_area {
+    padding: 35px 35px;
+}
+   /*Book Part*/
+.book_content {
+    text-align: center;
+}
+.book_content i {
+    font-size: 40px;
+}
+i.fas.fa-book {
+    margin-top: 30px;
+}
+i.fas.fa-clock {
+    margin-top: 30px;
+}
+   /*Foooter*/
+
+ 
+  
+    
+    
+    
+}
